@@ -9,6 +9,7 @@
   "dependencies": {
     "@mdi/font": "7.0.96",
     "axios": "^0.21.1",
+    "moment": "^2.29.1",
     "roboto-fontface": "*",
     "vue": "^3.4.0",
     "vue-axios": "^3.4.0",
